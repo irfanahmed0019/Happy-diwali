@@ -6,7 +6,7 @@ Alright soldier — here’s a **README.md** fit for a Diwali firecracker sound 
 
 Light up your code with the sound of celebration!
 This project brings **realistic Diwali firecracker effects** — designed for apps, games, and interactive Diwali greetings.
-
+https://irfanahammad.github.io/Happy-diwali/
 ---
 
 ### 🔊 Features
